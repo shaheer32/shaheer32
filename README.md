@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shaheer!
 
-Welcome to my GitHub profile! I'm a passionate **Software Engineering Student** with a strong interest in **AI**, **Cybersecurity**, and **Full-Stack Development**. My goal is to continuously learn and build innovative solutions that make a difference.
+Welcome to my GitHub profile! I'm a passionate **Software Engineering Student** with a strong interest in **AI** and **Full-Stack Development**. My goal is to continuously learn and build innovative solutions that make a difference.
 
 ---
 
