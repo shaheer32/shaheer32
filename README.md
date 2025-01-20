@@ -30,10 +30,8 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineering Student** 
 ---
 
 ## 💬 Let's Connect!
-- 📧 Email: [Your Email]  
-- 💼 LinkedIn: [Your LinkedIn Profile]  
-- 🐦 Twitter: [Your Twitter Handle]  
-- 🌟 Portfolio: [Your Portfolio Link]  
+- 📧 Email: shaheerkamal27@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/syed-muhammad-shaheer-kamal-14bb92197/  
 
 ---
 
