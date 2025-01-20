@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineering Student** 
 - 🌍 Based in **Karachi, Pakistan**  
 - 🚀 Aspiring to pursue a **Master's in Software Engineering** in the USA and open my own **software house**  
 - 🌐 Currently working on an **e-commerce platform** inspired by **Amazon** and **Daraz**  
-- 💼 Freelancer at Creatics Company, specializing in **data entry**  
 - 🎯 Long-term goal: Join a **FAANG** company as an intern and grow from there  
 
 ---
