@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineering Student** 
 ---
 
 ## 🛠 Skills & Interests
-- **Programming Languages**: HTML, CSS, JavaScript, .NET, SQL, C#  
-- **Technologies**: Web Development, Full-Stack Development, AI, Cybersecurity  
+- **Programming Languages**: HTML, CSS, JavaScript, React, Python 
+- **Technologies**: Web Development, Full-Stack Development, AI  
 - **Tools**: Git, VS Code, SQL, and more  
 - **Communication**: Excellent written and listening skills  
 
