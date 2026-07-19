@@ -1,188 +1,165 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=220&section=header&text=Syed%20Muhammad%20Shaheer%20Kamal&fontSize=55&fontColor=1E293B&animation=twinkling&fontAlignY=35&desc=Agentic%20AI%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0EA5E9&height=230&section=header&text=Syed%20Shaheer%20Kamal&fontSize=52&fontColor=F8FAFC&animation=twinkling&fontAlignY=35&desc=Agentic%20AI%20Developer%20%7C%20Building%20Multi-Agent%20AI%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=Agentic+AI+Developer;Building+Multi-Agent+AI+Systems;LangChain+%7C+LangGraph+%7C+Python;React+%7C+JavaScript+%7C+MySQL" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=shaheer32&color=7DD3FC&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/shaheer32?label=Followers&style=flat-square&color=7DD3FC&logo=github&logoColor=white" alt="Followers"/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=shaheer32&color=0EA5E9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/shaheer32?label=FOLLOWERS&style=for-the-badge&color=0EA5E9&logo=github&logoColor=white" alt="Followers"/>
+<img src="https://img.shields.io/badge/Karachi%2C%20Pakistan-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 
 </div>
 
-<br/>
-
-## 🧠 Who I Am
-
-```typescript
-const shaheer = {
-  fullName: "Syed Muhammad Shaheer Kamal",
-  title: "Agentic AI Developer",
-  location: "Karachi, Pakistan",
-  stack: {
-    frontend: ["React", "JavaScript", "HTML", "CSS"],
-    database: ["MySQL", "SQL"],
-    ai_ml: [
-      "LangChain",
-      "LangGraph",
-      "Python",
-      "Streamlit",
-      "OpenAI API",
-      "Groq API",
-      "Ollama",
-      "HuggingFace",
-    ],
-  },
-  launchedProjects: [
-    "AutoTestGen+ (FYP) — multi-agent platform automating the software test lifecycle",
-    "AgenticChat — full-stack conversational AI app with real-time streaming via Groq",
-    "BlogForge AI — agentic blog-writing pipeline built on LangGraph",
-    "Agentic AI Assistant — chatbot, web-search chatbot & AI news summarizer",
-  ],
-  certifications: [
-    "Meta Frontend Developer Professional Certificate — Coursera",
-    "Complete Agentic AI Bootcamp with LangGraph and LangChain — Udemy (Krish Naik Technologies)",
-    "Generative AI Application Developer — iCode Guru · Aspire Pakistan · HEC Pakistan",
-    "Building AI Voice Agents — DataCrumbs",
-    "Boost Your Coding with AI Tools — DataCrumbs",
-  ],
-  education: "BS Software Engineering, DHA Suffa University (2022 – 2026)",
-  status: "Software Engineering Graduate (2026) 🎓 — building multi-agent AI systems",
-  openTo: ["Collaborations", "Freelance AI/Agentic Projects", "Open Source"],
-} as const;
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:0EA5E9&height=4&width=100%25" width="100%"/>
 
 <br/>
+
+## 🧠 About Me
+
+<img align="right" width="260" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>
+
+- 🎓 **Software Engineering** graduate (2026) from DHA Suffa University, Karachi
+- 🤖 I build **multi-agent AI systems** with LangChain, LangGraph, and modern LLM APIs
+- 🚀 Shipped agentic products end-to-end — from orchestration logic to the frontend
+- 🌱 Currently deepening my expertise in **agent memory, tool-use, and RAG pipelines**
+- 🤝 Open to **collaborations, freelance AI/agentic projects & open source**
+- 📫 Reach me at **shaheerkamal27@gmail.com**
+
+<br clear="right"/>
+
+<table align="center">
+<tr>
+<td align="center">🎓<br/><b>Education</b><br/>BS Software Engineering</td>
+<td align="center">📍<br/><b>Based in</b><br/>Karachi, Pakistan</td>
+<td align="center">💼<br/><b>Focus</b><br/>Agentic AI Systems</td>
+<td align="center">🗣️<br/><b>Languages</b><br/>English · Urdu</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:0EA5E9&height=4&width=100%25" width="100%"/>
 
 ## 🚀 Featured Projects
 
-### AutoTestGen+ (FYP)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="left">
+### 🧪 AutoTestGen+ <sub>(FYP)</sub>
 
-<a href="https://github.com/Farrukh0-0/AutoTestGen-Plus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Farrukh0-0&repo=AutoTestGen-Plus&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="AutoTestGen+ Repo"/>
-</a>
+Multi-agent AI platform simulating **Developer, Tester & Requirement Analyst** roles to automate the software project lifecycle end-to-end — requirement gathering, task assignment, and test case generation via coordinated agent workflows with custom memory modules.
 
-</div>
+`Python` `LangChain` `LangGraph` `OpenAI API` `Ollama` `React` `Streamlit`
 
-A multi-agent AI platform simulating Developer, Tester, and Requirement Analyst roles to automate and streamline the software project lifecycle end-to-end. Uses agentic workflows built with LangChain and LangGraph to handle requirement gathering, task assignment, and test case generation, with custom prompts and memory modules so agents can track evolving project state and collaborate seamlessly.
+[![Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Farrukh0-0/AutoTestGen-Plus)
 
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| Agent Orchestration | LangChain, LangGraph |
-| LLM Providers | OpenAI API, Ollama |
-| Frontend | React |
-| Prototyping UI | Streamlit |
+</td>
+<td width="50%" valign="top">
 
-[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Farrukh0-0/AutoTestGen-Plus)
+### 💬 AgenticChat
 
-<br/>
+Full-stack conversational AI app with real-time streaming responses, powered by **Groq's** ultra-fast inference across LLaMA 3.3 & GPT-OSS models, built on a modular graph-based conversation architecture.
 
-### AgenticChat
+`Python` `LangGraph` `LangChain` `Groq` `Streamlit`
 
-A full-stack conversational AI application that lets users interact with large language models through a clean, responsive Streamlit interface with real-time streaming responses. Powered by Groq's ultra-fast inference API across multiple production-grade models (LLaMA 3.3, GPT-OSS variants), with a modular, graph-based conversation architecture separating state management, AI nodes, and workflow orchestration.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| Agent Orchestration | LangGraph, LangChain |
-| LLM Provider | Groq |
-| Interface | Streamlit |
+### ✍️ BlogForge AI
 
-<br/>
+End-to-end agentic app that autonomously researches, drafts, and refines full blog posts from a single prompt via multi-step LangGraph workflows, with live tone/topic/length customization.
 
-### BlogForge AI
+`Python` `LangGraph` `LangChain` `Groq` `Streamlit`
 
-An end-to-end agentic AI application that autonomously generates fully structured, high-quality blog posts from a single prompt using multi-step LangGraph workflows. Agents research, draft, and refine content in one pipeline, with a Streamlit interface for customizing tone, topic, and length in real time.
+</td>
+<td width="50%" valign="top">
 
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| Agent Orchestration | LangGraph, LangChain |
-| LLM Provider | Groq |
-| Interface | Streamlit |
+### 🤖 Agentic AI Assistant
 
-<br/>
+Multi-purpose AI assistant combining a conversational chatbot, web-search-enabled chatbot, and AI news summarizer in one clean interface, deployed live on Hugging Face Spaces.
 
-### Agentic AI Assistant
-
-A multi-purpose AI assistant combining a basic conversational chatbot, a web-search-enabled chatbot, and an AI news summarizer in one interface.
-
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| Agent Orchestration | LangChain, LangGraph |
-| Interface | Streamlit |
-| Hosting | Hugging Face Spaces |
+`Python` `LangChain` `LangGraph` `Streamlit`
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/Shaheer32212/AgenticAIAssistant)
 
-<br/>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:0EA5E9&height=4&width=100%25" width="100%"/>
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,js" alt="Languages"/>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,js&theme=dark" alt="Languages"/>
 
 **Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,html,css" alt="Frontend"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="Frontend"/>
 
 **Database**
-
-<img src="https://skillicons.dev/icons?i=mysql" alt="Database"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Database"/>
 
 **AI / ML**
-
-![LangChain](https://img.shields.io/badge/LangChain-7DD3FC?style=for-the-badge&logoColor=1E293B)
-![LangGraph](https://img.shields.io/badge/LangGraph-7DD3FC?style=for-the-badge&logoColor=1E293B)
-![Streamlit](https://img.shields.io/badge/Streamlit-7DD3FC?style=for-the-badge&logo=streamlit&logoColor=1E293B)
-![Groq](https://img.shields.io/badge/Groq-7DD3FC?style=for-the-badge&logoColor=1E293B)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-7DD3FC?style=for-the-badge&logo=huggingface&logoColor=1E293B)
+<br/>
+![LangChain](https://img.shields.io/badge/LangChain-1E293B?style=for-the-badge&logoColor=0EA5E9)
+![LangGraph](https://img.shields.io/badge/LangGraph-1E293B?style=for-the-badge&logoColor=0EA5E9)
+![Streamlit](https://img.shields.io/badge/Streamlit-1E293B?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+![Groq](https://img.shields.io/badge/Groq-1E293B?style=for-the-badge&logoColor=0EA5E9)
+![OpenAI](https://img.shields.io/badge/OpenAI-1E293B?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-1E293B?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 
 **Dev Tools**
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github" alt="Dev Tools"/>
-
 <br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shaheer32&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&hide_border=false" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shaheer32&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&hide_border=false" alt="Top Languages" height="165"/>
-
-<img src="https://streak-stats.demolab.com/?user=shaheer32&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" alt="GitHub Streak"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" alt="Dev Tools"/>
 
 </div>
 
-## 🏆 Trophies
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:0EA5E9&height=4&width=100%25" width="100%"/>
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shaheer32&theme=nord&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
+<img src="https://streak-stats.demolab.com/?user=shaheer32&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&hide_border=false" alt="GitHub Streak" width="48%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaheer32&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Contribution Graph" width="100%"/>
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:0EA5E9&height=4&width=100%25" width="100%"/>
+
+## 📜 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Meta%20Frontend%20Developer-Coursera-1E293B?style=for-the-badge&logo=meta&logoColor=0EA5E9"/>
+<img src="https://img.shields.io/badge/Agentic%20AI%20Bootcamp-Udemy-1E293B?style=for-the-badge&logo=udemy&logoColor=0EA5E9"/>
 <br/>
+<img src="https://img.shields.io/badge/Generative%20AI%20App%20Developer-HEC%20Pakistan-1E293B?style=for-the-badge&logoColor=0EA5E9"/>
+<img src="https://img.shields.io/badge/Building%20AI%20Voice%20Agents-DataCrumbs-1E293B?style=for-the-badge&logoColor=0EA5E9"/>
+<br/>
+<img src="https://img.shields.io/badge/Boost%20Your%20Coding%20with%20AI-DataCrumbs-1E293B?style=for-the-badge&logoColor=0EA5E9"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:0EA5E9&height=4&width=100%25" width="100%"/>
 
 ## 🎓 Education
 
-**BS Software Engineering** — DHA Suffa University, Karachi (Oct 2022 – July 2026)
-**FSc Pre-Engineering** — Pakistan Shipowner's Govt. College, Karachi (2018 – 2021)
+```
+2022 — 2026   BS Software Engineering, DHA Suffa University, Karachi
+2018 — 2021   FSc Pre-Engineering, Pakistan Shipowner's Govt. College, Karachi
+```
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:0EA5E9&height=4&width=100%25" width="100%"/>
 
 ## 🤝 Connect With Me
 
@@ -190,7 +167,9 @@ A multi-purpose AI assistant combining a basic conversational chatbot, a web-sea
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smsk27/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaheerkamal27@gmail.com)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Shaheer32212)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaheer32)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=150&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0EA5E9&height=150&section=footer&animation=twinkling" width="100%"/>
