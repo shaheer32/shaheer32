@@ -152,8 +152,8 @@ A multi-purpose AI assistant combining a basic conversational chatbot, a web-sea
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shaheer32&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&hide_border=false" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheer32&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&hide_border=false" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shaheer32&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&hide_border=false" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shaheer32&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&hide_border=false" alt="Top Languages" height="165"/>
 
 <img src="https://streak-stats.demolab.com/?user=shaheer32&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" alt="GitHub Streak"/>
 
